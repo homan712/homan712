@@ -5,6 +5,6 @@
 </h1>
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homan712&Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homan712&hide=php&Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
 
  <img alt="snake eating my contribution" src="https://github.com/homan712/homan712/blob/output/github-contribution-grid-snake.svg">
