@@ -10,3 +10,4 @@
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level</p>
 
  <img alt="snake eating my contribution" src="https://github.com/homan712/homan712/blob/output/github-contribution-grid-snake.svg">
+ ![snake_fig'(https://github.com/homan712/blob/output/github-contribution-grid-snake.svg)
