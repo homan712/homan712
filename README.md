@@ -9,11 +9,10 @@
 
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level</p>
 
- <img alt="snake eating my contribution" src="https://github.com/homan712/homan712/blob/output/github-contribution-grid-snake.svg">
+ 
  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+ <img alt="snake eating my contribution" src="https://github.com/homan712/homan712/blob/output/github-contribution-grid-snake.svg">
 </picture>
