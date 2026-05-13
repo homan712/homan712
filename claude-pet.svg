@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 270" width="300" height="270">
+  <defs>
+    <style>
+      .float { animation: float 3s ease-in-out infinite; }
+      .blink { animation: blink 4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .pulse { animation: pulse 1.5s ease-in-out infinite; }
+      .bubble { animation: bubble 5s ease-in-out infinite; }
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes blink {
+        0%, 45%, 55%, 100% { transform: scaleY(1); }
+        50% { transform: scaleY(0.05); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.4; }
+      }
+      @keyframes bubble {
+        0%, 10% { opacity: 0; transform: scale(0.85); }
+        25%, 75% { opacity: 1; transform: scale(1); }
+        90%, 100% { opacity: 0; transform: scale(0.85); }
+      }
+    </style>
+  </defs>
+  <g class="bubble">
+    <rect x="155" y="15" width="135" height="58" rx="13" fill="#D97757"/>
+    <text x="222" y="40" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="13" font-weight="bold">Hi! I am Claude</text>
+    <text x="222" y="60" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11">Your coding buddy!</text>
+    <polygon points="162,68 140,85 182,78" fill="#D97757"/>
+  </g>
+  <g class="float" transform="translate(25, 25)">
+    <ellipse cx="90" cy="232" rx="52" ry="7" fill="#00000018"/>
+    <rect x="43" y="128" width="94" height="88" rx="20" fill="#D97757"/>
+    <rect x="28" y="50" width="124" height="102" rx="26" fill="#E8896A"/>
+    <rect x="12" y="72" width="20" height="32" rx="9" fill="#D97757"/>
+    <rect x="148" y="72" width="20" height="32" rx="9" fill="#D97757"/>
+    <g class="blink" transform="translate(63, 98)">
+      <ellipse cx="0" cy="0" rx="17" ry="19" fill="white"/>
+      <circle cx="3" cy="4" r="10" fill="#2a2a2a"/>
+      <circle cx="7" cy="0" r="4" fill="white"/>
+    </g>
+    <g class="blink" transform="translate(117, 98)">
+      <ellipse cx="0" cy="0" rx="17" ry="19" fill="white"/>
+      <circle cx="3" cy="4" r="10" fill="#2a2a2a"/>
+      <circle cx="7" cy="0" r="4" fill="white"/>
+    </g>
+    <circle cx="90" cy="118" r="6" fill="#C4664A"/>
+    <path d="M 63 132 Q 90 152 117 132" stroke="#8B4513" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <line x1="90" y1="50" x2="90" y2="18" stroke="#B05A3A" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="90" cy="11" r="10" fill="#FF9F7F" class="pulse"/>
+    <rect x="56" y="143" width="68" height="58" rx="11" fill="#C4664A" opacity="0.55"/>
+    <circle cx="74" cy="162" r="8" fill="#FF9F7F" class="pulse"/>
+    <circle cx="106" cy="162" r="8" fill="#FFD700" class="pulse"/>
+    <rect x="66" y="182" width="48" height="9" rx="4.5" fill="#FF9F7F" opacity="0.75"/>
+    <rect x="8" y="138" width="38" height="18" rx="9" fill="#D97757"/>
+    <circle cx="6" cy="147" r="11" fill="#E8896A"/>
+    <rect x="134" y="138" width="38" height="18" rx="9" fill="#D97757"/>
+    <circle cx="174" cy="147" r="11" fill="#E8896A"/>
+    <rect x="53" y="210" width="30" height="28" rx="10" fill="#C4664A"/>
+    <rect x="97" y="210" width="30" height="28" rx="10" fill="#C4664A"/>
+    <ellipse cx="68" cy="236" rx="20" ry="9" fill="#B05A3A"/>
+    <ellipse cx="112" cy="236" rx="20" ry="9" fill="#B05A3A"/>
+  </g>
+</svg>
