@@ -7,22 +7,12 @@
 <br>
 
 <div align="center">
-  <img src="./claude-pet.svg" width="300" alt="Claude Pet"/>
+  <img src="https://avatars.githubusercontent.com/u/68459928?v=4" width="150" style="border-radius: 50%;" alt="My Cat"/>
   <br>
   <sub>⬆️ My AI buddy Claude — he keeps me company while I code 🧡</sub>
 </div>
 
 <br>
-
----
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homan712&hide=php,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<sub>Top languages is only a metric of my public code and does not reflect experience or skill level</sub>
-
-</div>
 
 ---
 
