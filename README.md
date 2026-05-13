@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/68459928?v=4" width="150" style="border-radius: 50%;" alt="My Cat"/>
   <br>
-  <sub>⬆️ My AI buddy Claude — he keeps me company while I code 🧡</sub>
+
 </div>
 
 <br>
