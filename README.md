@@ -4,13 +4,9 @@
   </a>
 </div>
 
-<br>
 
 
-<br>
 
----
-
-<div align="center">
+<!-- <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/homan712/homan712/blob/output/github-snake.svg">
-</div>
+</div> -->
