@@ -6,9 +6,6 @@
 
 <br>
 
-<div align="center">
-  <img src="./claude-pet.svg" width="300" alt="My Cat"/>
-</div>
 
 <br>
 
